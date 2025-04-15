@@ -7,8 +7,7 @@ Project URLs: https://github.com/MarcJHuber/event-driven-servers/
 ---
 
 ## how to use it
-If you just want to use the container from docker hub, create the directories and configurations - then proceed with step 2.  
-
+---
 ### 1.) Script on docker host
 Depending on your setup, you can use a simple bash script to manage the container on docker host: 
 
