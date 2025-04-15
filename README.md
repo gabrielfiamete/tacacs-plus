@@ -6,7 +6,7 @@ Project URLs: https://github.com/MarcJHuber/event-driven-servers/
 
 ---
 
-## how to use it
+## How to use it
 ---
 ### 1.) Script on docker host
 Depending on your setup, you can use a simple bash script to manage the container on docker host: 
